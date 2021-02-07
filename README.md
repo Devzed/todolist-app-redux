@@ -1,1 +1,2 @@
-# Todolist application using ReactJS and Redux to handle states
+# Todolist application
+Simple Todolist application written in ReactJS and states are handled with Redux
